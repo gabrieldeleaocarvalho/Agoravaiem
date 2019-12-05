@@ -80,8 +80,9 @@ public class JanelaPrincipal extends javax.swing.JFrame {
         });
         getContentPane().add(jButton4, new org.netbeans.lib.awtextra.AbsoluteConstraints(178, 302, -1, -1));
 
+        jLabel1.setFont(new java.awt.Font("Yu Gothic Medium", 1, 24)); // NOI18N
         jLabel1.setText("                 Carro");
-        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 255, 129, 28));
+        getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 260, 129, 28));
 
         jButton1.setText("Enviar");
         jButton1.setToolTipText("faz uma ação");
